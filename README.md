@@ -76,9 +76,6 @@ Below is a demo video demonstrating the main flows (indexing, retrieval, and ans
 
 - **Google Drive (direct view):** https://drive.google.com/file/d/1nLbFjJuFEJ7dbytmqJH4bpA-Ac6lMgI6/view?usp=sharing
 
-<!-- Embedded preview: uses Google Drive "preview" URL. Some renderers (e.g., GitHub) may not show the iframe; open the direct link above if you cannot see the preview. -->
-
-<iframe src="https://drive.google.com/file/d/1nLbFjJuFEJ7dbytmqJH4bpA-Ac6lMgI6/preview" width="900" height="506" allow="autoplay; encrypted-media" frameborder="0"></iframe>
 
 **What the demo shows:**
 
