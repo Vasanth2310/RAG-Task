@@ -70,15 +70,15 @@ The system combines retrieval and generation to provide accurate, context-aware 
 
 ---
 
-## 🎬 Video Demo
+### Video Demo
 
-Below is a local demo video demonstrating the main flows (indexing, retrieval, and answering). If you prefer an external link (YouTube/Vimeo), paste it where indicated.
+Below is a demo video demonstrating the main flows (indexing, retrieval, and answering). Use the link below to view it.
 
-<video controls width="900">
-    <source src="assets/RAG Project Demo.mp4" type="video/mp4">
-    Your browser does not support the video tag. Download the demo here: [RAG Project Demo](assets/RAG%20Project%20Demo.mp4)
-</video>
+- **Google Drive (direct view):** https://drive.google.com/file/d/1nLbFjJuFEJ7dbytmqJH4bpA-Ac6lMgI6/view?usp=sharing
 
+<!-- Embedded preview: uses Google Drive "preview" URL. Some renderers (e.g., GitHub) may not show the iframe; open the direct link above if you cannot see the preview. -->
+
+<iframe src="https://drive.google.com/file/d/1nLbFjJuFEJ7dbytmqJH4bpA-Ac6lMgI6/preview" width="900" height="506" allow="autoplay; encrypted-media" frameborder="0"></iframe>
 
 **What the demo shows:**
 
